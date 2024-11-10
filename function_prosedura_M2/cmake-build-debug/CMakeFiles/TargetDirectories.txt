@@ -1,0 +1,3 @@
+D:/Foundation_F_196/function_prosedura_M2/cmake-build-debug/CMakeFiles/function_prosedura_M2.dir
+D:/Foundation_F_196/function_prosedura_M2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Foundation_F_196/function_prosedura_M2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

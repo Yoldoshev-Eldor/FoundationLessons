@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1718340672 source:d:\foundation_f_196\lesson7\main.cpp
+	<iostream>
+	<windows.h>
+

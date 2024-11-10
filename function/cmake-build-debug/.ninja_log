@@ -1,0 +1,15 @@
+# ninja log v6
+11	715	7422972941778083	CMakeFiles/function.dir/main.cpp.obj	93d9db76038a714d
+718	920	7422972948842769	function.exe	bce53bec704fb5d
+36	727	7422985358690168	CMakeFiles/function.dir/main.cpp.obj	93d9db76038a714d
+728	904	7422985365616913	function.exe	bce53bec704fb5d
+37	671	7422990065897564	CMakeFiles/function.dir/main.cpp.obj	93d9db76038a714d
+672	872	7422990072244544	function.exe	bce53bec704fb5d
+23	750	7422994317051640	CMakeFiles/function.dir/main.cpp.obj	93d9db76038a714d
+752	936	7422994324344829	function.exe	bce53bec704fb5d
+24	684	7422994836093999	CMakeFiles/function.dir/main.cpp.obj	93d9db76038a714d
+685	875	7422994842704937	function.exe	bce53bec704fb5d
+23	816	7422995413451364	CMakeFiles/function.dir/main.cpp.obj	93d9db76038a714d
+835	1003	7422995421578971	function.exe	bce53bec704fb5d
+33	700	7422995774070247	CMakeFiles/function.dir/main.cpp.obj	93d9db76038a714d
+701	853	7422995780758351	function.exe	bce53bec704fb5d

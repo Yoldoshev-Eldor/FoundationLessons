@@ -1,0 +1,3 @@
+D:/Foundation_F_196/kutubxona_math/cmake-build-debug/CMakeFiles/kutubxona_math.dir
+D:/Foundation_F_196/kutubxona_math/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Foundation_F_196/kutubxona_math/cmake-build-debug/CMakeFiles/rebuild_cache.dir

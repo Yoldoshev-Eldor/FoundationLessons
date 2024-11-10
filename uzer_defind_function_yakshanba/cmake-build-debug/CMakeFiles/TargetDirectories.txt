@@ -1,0 +1,3 @@
+D:/Foundation_F_196/uzer_defind_function_yakshanba/cmake-build-debug/CMakeFiles/uzer_defind_function_yakshanba.dir
+D:/Foundation_F_196/uzer_defind_function_yakshanba/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Foundation_F_196/uzer_defind_function_yakshanba/cmake-build-debug/CMakeFiles/rebuild_cache.dir

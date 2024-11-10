@@ -1,0 +1,3 @@
+D:/Foundation_F_196/takrorlash1/cmake-build-debug/CMakeFiles/takrorlash1.dir
+D:/Foundation_F_196/takrorlash1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Foundation_F_196/takrorlash1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

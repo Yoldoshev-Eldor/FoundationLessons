@@ -1,0 +1,3 @@
+D:/Foundation_F_196/bankamat/cmake-build-debug/CMakeFiles/bankamat.dir
+D:/Foundation_F_196/bankamat/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Foundation_F_196/bankamat/cmake-build-debug/CMakeFiles/rebuild_cache.dir

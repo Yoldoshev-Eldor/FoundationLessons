@@ -1,0 +1,3 @@
+D:/Foundation_F_196/Modul_M2_egzim/cmake-build-debug/CMakeFiles/Modul_M2_egzim.dir
+D:/Foundation_F_196/Modul_M2_egzim/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Foundation_F_196/Modul_M2_egzim/cmake-build-debug/CMakeFiles/rebuild_cache.dir
